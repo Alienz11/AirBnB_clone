@@ -1,0 +1,1 @@
+**This folder/directory displays all the under-pinnings of HTML and CSS in Web Static Designs for the AirBnB Project**
