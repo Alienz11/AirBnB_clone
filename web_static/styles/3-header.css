@@ -1,0 +1,17 @@
+header {
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+header > a {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 5px;
+    height: 60px;
+    width: 140px;
+    background-image: url("../images/logo_hbnb.png");
+    background-repeat: no-repeat;
+    background-size: 140px 60px;
+}
