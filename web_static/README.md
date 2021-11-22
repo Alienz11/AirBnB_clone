@@ -1,1 +1,5 @@
-**This folder/directory displays all the under-pinnings of HTML and CSS in Web Static Designs for the AirBnB Project**
+# Web Static
+
+## Description
+
+This project is a collection of static web pages for the Air BnB clone website.
